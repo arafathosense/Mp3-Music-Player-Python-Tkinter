@@ -1,4 +1,4 @@
-# Mp3 Music Player Using (Python Tkinter)
+**Mp3 Music Player Using (Python Tkinter)**
 
 **🧠 Installation & Setup**
 
